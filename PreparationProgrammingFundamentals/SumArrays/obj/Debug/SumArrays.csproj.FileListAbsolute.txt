@@ -1,0 +1,6 @@
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumArrays\bin\Debug\SumArrays.exe.config
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumArrays\bin\Debug\SumArrays.exe
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumArrays\bin\Debug\SumArrays.pdb
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumArrays\obj\Debug\SumArrays.csprojResolveAssemblyReference.cache
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumArrays\obj\Debug\SumArrays.exe
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumArrays\obj\Debug\SumArrays.pdb

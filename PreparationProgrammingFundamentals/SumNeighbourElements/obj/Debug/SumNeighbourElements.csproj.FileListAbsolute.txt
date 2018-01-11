@@ -1,0 +1,6 @@
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumNeighbourElements\bin\Debug\SumNeighbourElements.exe.config
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumNeighbourElements\bin\Debug\SumNeighbourElements.exe
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumNeighbourElements\bin\Debug\SumNeighbourElements.pdb
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumNeighbourElements\obj\Debug\SumNeighbourElements.exe
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\SumNeighbourElements\obj\Debug\SumNeighbourElements.pdb
+C:\Users\hrist\OneDrive\Документи\Visual Studio 2015\Projects\PreparationProgrammingFundamentals\SumNeighbourElements\obj\Debug\SumNeighbourElements.csprojResolveAssemblyReference.cache

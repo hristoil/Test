@@ -1,0 +1,5 @@
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe.config
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.pdb
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.exe
+c:\users\hrist\onedrive\документи\visual studio 2015\Projects\PreparationProgrammingFundamentals\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.pdb
